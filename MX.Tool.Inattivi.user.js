@@ -10,8 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/mxOneScripts/mx.Vendetta.Tool.Inattivi/raw/refs/heads/main/MX.Tool.Inattivi.user.js
+// @downloadURL  https://github.com/mxOneScripts/mx.Vendetta.Tool.Inattivi/raw/refs/heads/main/MX.Tool.Inattivi.user.js
 // ==/UserScript==
 
 (function () {
