@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MX.Tool.Inattivi
 // @namespace    mx.tool.inattivi
-// @version      2.6.2
+// @version      2.6.3
 // @description  Tool inattivi per vendettagame.es (solo /clasificacion jugadores) – full features + hover + tooltip IT
 // @author       mx.
 // @match        *://vendettagame.es/clasificacion*
@@ -106,7 +106,7 @@
         border:1px solid #666;
         background:#1d1d1d;
         color:#eee;
-        border-radius:6px;
+        border-radius:3px;
         font-size:12px;
         cursor:pointer;
         box-sizing:border-box;
